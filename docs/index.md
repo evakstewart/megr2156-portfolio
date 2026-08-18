@@ -1,4 +1,4 @@
-# MEGR 2157 – Design Portfolio
+# Eva Stewart MEGR 2156 – Design Portfolio
 
 ![Eva Stewart - MEGR 2156 Portfolio](MEGR2156title.png)
 
