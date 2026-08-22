@@ -1,11 +1,12 @@
 site_name: MEGR 2157 – Design Portfolio
 site_description: Design portfolio documentation, built with the Analyze / Decide / Communicate framework
-extra_css:
-  - stylesheets/extra.css
+
 theme:
   name: material
   palette:
-    primary: #005035
+    primary: custom
+ extra_css:
+  - stylesheets/extra.css
   features:
     - navigation.instant
     - navigation.tracking
