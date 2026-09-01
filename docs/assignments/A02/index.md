@@ -50,3 +50,8 @@ Throughout the duration of this assignment, numerous valuable insights emerged:
 5. Engaging in CAD modeling not only validated the analytical design but also enriched my ability to visualize the final structure, while enabling precise calculations regarding the mass properties of the completed truss.
 
 In total, I spent about 5 hours completing this assignment, gaining practical experience and a deeper understanding of truss design and analysis.
+
+Here is the download for my Truss assembly on SolidWorks:
+
+[Truss_&_Pins.zip](https://github.com/user-attachments/files/31674199/Truss_._Pins.zip)
+
